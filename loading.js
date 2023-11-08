@@ -80,7 +80,7 @@ loop: true, // Set to true if you want the animation to loop
 
 autoplay: true, // Set to true if you want the animation to start automatically
 
-path: 'https://lottie.host/792ec302-dee4-4933-a7ad-2deccae49672/l4CfwAUAbf.json', // Replace with the actual URL of your Lottie JSON file
+path: 'https://lottie.host/2cae2207-c7d9-4f22-ab00-7b262be8abf6/kJn0AmPHJ7.json', // Replace with the actual URL of your Lottie JSON file
 
 };
 
